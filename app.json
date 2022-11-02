@@ -3,11 +3,13 @@
     "name": "meme-generator",
     "slug": "meme-generator",
     "version": "1.0.0",
+    "owner": "ajaysharma12799",
+    "description": "A Simple Meme Generator",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/meme-logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Splash-Scree.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +24,9 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/meme-logo.png",
         "backgroundColor": "#FFFFFF"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
